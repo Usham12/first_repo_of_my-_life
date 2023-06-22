@@ -1,2 +1,1 @@
-# first_repo_of_my-_life
-first repo of my life
+after all problem i have to creat my first repository
